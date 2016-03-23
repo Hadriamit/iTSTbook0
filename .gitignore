@@ -1,0 +1,5 @@
+# Items to be ignored by Git:
+# Ignore the temporary files:
+*~
+# Ignore the contents of the 'build' directory:
+build/
