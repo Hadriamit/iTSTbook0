@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Witamy w Test 0!
-================
+Witamy w Test 0scs!
+===================
 
 Contents:
 
