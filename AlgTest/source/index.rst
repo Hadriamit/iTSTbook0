@@ -1,22 +1,28 @@
-.. Test 0 documentation master file, created by
-   sphinx-quickstart on Wed Mar 23 10:17:12 2016.
+.. Test documentation master file, created by
+   sphinx-quickstart on Mon May  6 21:02:54 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Test 0scs!
+=====================
+Welcome in Test 1.scs
 =====================
 
-Contents:
+Ćwiczenia z edytora reST
+========================
+
+*W tym rozdziale znajdują się przykłady użycia struktur reSTu.*
 
 .. toctree::
-   :maxdepth: 2
+   
+   Informacje o rolach <Roles>
+   Czym są dyrektywy <Directives>
+   examples
+   math_support
 
+Uruchamianie okna SageCellServer
+================================
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   
+   Eksperymenty z oknami SageCellServer <SCS>
 
