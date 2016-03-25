@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Test 0 documentation build configuration file, created by
+# Test 1 documentation build configuration file, created by
 # sphinx-quickstart on Wed Mar 23 10:17:12 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Test 0'
+project = u'Test 1'
 copyright = u'2016, Jaks Amit'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -61,7 +61,7 @@ copyright = u'2016, Jaks Amit'
 # built documents.
 #
 # The short X.Y version.
-version = '0'
+version = '1'
 # The full version, including alpha/beta/rc tags.
 release = '2scs'
 
@@ -186,7 +186,7 @@ html_last_updated_fmt = '%d/%m, %Y'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Test0doc'
+htmlhelp_basename = 'Test1doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -206,7 +206,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Test0.tex', u'Test 0',
+  ('index', 'Test1.tex', u'Test 1',
    u'Jaks Amit', 'manual'),
 ]
 
@@ -236,7 +236,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'test0', u'Test 0',
+    ('index', 'test1', u'Test 1',
      [u'Jaks Amit'], 1)
 ]
 
@@ -250,8 +250,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Test0', u'Test 0',
-   u'Jaks Amit', 'Test0', 'One line description of project.',
+  ('index', 'Test1', u'Test 1',
+   u'Jaks Amit', 'Test1', 'One line description of project.',
    'Miscellaneous'),
 ]
 
