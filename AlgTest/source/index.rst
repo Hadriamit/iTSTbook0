@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=====================
-Welcome in Test 1.scs
-=====================
+=======================
+Welcome in Test 1.cloud
+=======================
 
 Ćwiczenia z edytora reST
 ========================
